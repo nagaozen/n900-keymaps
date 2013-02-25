@@ -1,4 +1,4 @@
-keymaps 0-2,4
+keymaps 0-4
 #
 keycode  14 = Delete
 	shift	altgr	keycode	14 = F12
